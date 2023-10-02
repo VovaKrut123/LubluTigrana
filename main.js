@@ -251,7 +251,7 @@
 
 // alert(arr2.join('')); 
 
-//4 ЛАБА
+//4 ЛАБА 2 ЧАСТЬ
 // Задача 1.1
 // function* randomizer(){
 //     while(true){
